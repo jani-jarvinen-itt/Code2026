@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+    <customer>
+        <name>John Doe</name>
+        <email>john@does.com</email>
+        <phone>123-456-7890</phone>
+    </customer>
+    <customer>
+        <name>Jane Smith</name>
+        <email>jane.smith@example.com</email>
+        <phone>555-123-1001</phone>
+    </customer>
+    <customer>
+        <name>Michael Johnson</name>
+        <email>michael.johnson@example.com</email>
+        <phone>555-123-1002</phone>
+    </customer>
+    <customer>
+        <name>Emily Davis</name>
+        <email>emily.davis@example.com</email>
+        <phone>555-123-1003</phone>
+    </customer>
+    <customer>
+        <name>Robert Brown</name>
+        <email>robert.brown@example.com</email>
+        <phone>555-123-1004</phone>
+    </customer>
+    <customer>
+        <name>Linda Wilson</name>
+        <email>linda.wilson@example.com</email>
+        <phone>555-123-1005</phone>
+    </customer>
+    <customer>
+        <name>David Martinez</name>
+        <email>david.martinez@example.com</email>
+        <phone>555-123-1006</phone>
+    </customer>
+    <customer>
+        <name>Sarah Anderson</name>
+        <email>sarah.anderson@example.com</email>
+        <phone>555-123-1007</phone>
+    </customer>
+    <customer>
+        <name>James Thomas</name>
+        <email>james.thomas@example.com</email>
+        <phone>555-123-1008</phone>
+    </customer>
+    <customer>
+        <name>Patricia Taylor</name>
+        <email>patricia.taylor@example.com</email>
+        <phone>555-123-1009</phone>
+    </customer>
+    <customer>
+        <name>Christopher Moore</name>
+        <email>christopher.moore@example.com</email>
+        <phone>555-123-1010</phone>
+    </customer>
+    <customer>
+        <name>Barbara Jackson</name>
+        <email>barbara.jackson@example.com</email>
+        <phone>555-123-1011</phone>
+    </customer>
+    <customer>
+        <name>Daniel White</name>
+        <email>daniel.white@example.com</email>
+        <phone>555-123-1012</phone>
+    </customer>
+    <customer>
+        <name>Jessica Harris</name>
+        <email>jessica.harris@example.com</email>
+        <phone>555-123-1013</phone>
+    </customer>
+    <customer>
+        <name>Matthew Martin</name>
+        <email>matthew.martin@example.com</email>
+        <phone>555-123-1014</phone>
+    </customer>
+    <customer>
+        <name>Ashley Thompson</name>
+        <email>ashley.thompson@example.com</email>
+        <phone>555-123-1015</phone>
+    </customer>
+</customers>

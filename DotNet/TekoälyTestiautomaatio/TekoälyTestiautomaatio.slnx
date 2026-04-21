@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Laskentaa.Tests/Laskentaa.Tests.csproj" />
+  <Project Path="Laskentaa/Laskentaa.csproj" />
+</Solution>
